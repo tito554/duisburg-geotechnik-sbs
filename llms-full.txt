@@ -1,0 +1,62 @@
+# Duisburg
+
+> Geotechnical engineering company in Germany, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aktive Passive Verankerungsbemessung](https://duisburg.geotechnik.sbs/aktive-passive-verankerungsbemessung/)
+- [Analyse Seismischen Verstarkung](https://duisburg.geotechnik.sbs/analyse-seismischen-verstarkung/)
+- [Atterberg Grenzen](https://duisburg.geotechnik.sbs/atterberg-grenzen/)
+- [Bemessung Rammpfahlen](https://duisburg.geotechnik.sbs/bemessung-rammpfahlen/)
+- [Bemessung Rutteldruckverdichtung](https://duisburg.geotechnik.sbs/bemessung-rutteldruckverdichtung/)
+- [Bewertung Setzungsempfindlichen Boden](https://duisburg.geotechnik.sbs/bewertung-setzungsempfindlichen-boden/)
+- [Bodenklassifikation](https://duisburg.geotechnik.sbs/bodenklassifikation/)
+- [Bodenmechanische Untersuchung](https://duisburg.geotechnik.sbs/bodenmechanische-untersuchung/)
+- [Bodenverbesserung](https://duisburg.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsbruchanalyse](https://duisburg.geotechnik.sbs/boschungsbruchanalyse/)
+- [Boschungsstabilitatsanalyse](https://duisburg.geotechnik.sbs/boschungsstabilitatsanalyse/)
+- [Charakterisierung Residualboden](https://duisburg.geotechnik.sbs/charakterisierung-residualboden/)
+- [Cone Penetration Test](https://duisburg.geotechnik.sbs/cone-penetration-test/)
+- [Deep Soil Mixing](https://duisburg.geotechnik.sbs/deep-soil-mixing/)
+- [Differenzialsetzungsanalyse](https://duisburg.geotechnik.sbs/differenzialsetzungsanalyse/)
+- [Direkter Scherversuch](https://duisburg.geotechnik.sbs/direkter-scherversuch/)
+- [Elektrische Widerstandsmessung Ves](https://duisburg.geotechnik.sbs/elektrische-widerstandsmessung-ves/)
+- [Erkundung](https://duisburg.geotechnik.sbs/erkundung/)
+- [Felddichtebestimmung](https://duisburg.geotechnik.sbs/felddichtebestimmung/)
+- [Flachgrundungsbemessung](https://duisburg.geotechnik.sbs/flachgrundungsbemessung/)
+- [Fundamente](https://duisburg.geotechnik.sbs/fundamente/)
+- [Geogitter Spezifikation](https://duisburg.geotechnik.sbs/geogitter-spezifikation/)
+- [Geophysik](https://duisburg.geotechnik.sbs/geophysik/)
+- [Geotechnik Deponien](https://duisburg.geotechnik.sbs/geotechnik-deponien/)
+- [Geotechnische Baugrubenuberwachung](https://duisburg.geotechnik.sbs/geotechnische-baugrubenuberwachung/)
+- [Geotechnische Bemessung Tiefer Baugruben](https://duisburg.geotechnik.sbs/geotechnische-bemessung-tiefer-baugruben/)
+- [Geotechnische Entwasserungsbemessung](https://duisburg.geotechnik.sbs/geotechnische-entwasserungsbemessung/)
+- [Geotechnische Instrumentierung](https://duisburg.geotechnik.sbs/geotechnische-instrumentierung/)
+- [Geotechnische Straßenentwasserung](https://duisburg.geotechnik.sbs/geotechnische-straßenentwasserung/)
+- [Ground Penetrating Radar](https://duisburg.geotechnik.sbs/ground-penetrating-radar/)
+- [Hange Wande](https://duisburg.geotechnik.sbs/hange-wande/)
+- [In Situ Prufungen](https://duisburg.geotechnik.sbs/in-situ-prufungen/)
+- [Labor](https://duisburg.geotechnik.sbs/labor/)
+- [Labor Durchlassigkeitsversuch](https://duisburg.geotechnik.sbs/labor-durchlassigkeitsversuch/)
+- [Mikropfahlbemessung](https://duisburg.geotechnik.sbs/mikropfahlbemessung/)
+- [Normal Modifiziert](https://duisburg.geotechnik.sbs/normal-modifiziert/)
+- [Pfahlanalyse Mantelreibung Vs Spitzendruck](https://duisburg.geotechnik.sbs/pfahlanalyse-mantelreibung-vs-spitzendruck/)
+- [Pfahlgrundungsbemessung](https://duisburg.geotechnik.sbs/pfahlgrundungsbemessung/)
+- [Scherwellengeschwindigkeit](https://duisburg.geotechnik.sbs/scherwellengeschwindigkeit/)
+- [Schlitzwandbemessung](https://duisburg.geotechnik.sbs/schlitzwandbemessung/)
+- [Schuttstromanalyse](https://duisburg.geotechnik.sbs/schuttstromanalyse/)
+- [Seismik](https://duisburg.geotechnik.sbs/seismik/)
+- [Seismische Tomographie](https://duisburg.geotechnik.sbs/seismische-tomographie/)
+- [Setzungsanalyse](https://duisburg.geotechnik.sbs/setzungsanalyse/)
+- [Siebung Hydrometer](https://duisburg.geotechnik.sbs/siebung-hydrometer/)
+- [Standard Penetration Test](https://duisburg.geotechnik.sbs/standard-penetration-test/)
+- [Standortantwortanalyse](https://duisburg.geotechnik.sbs/standortantwortanalyse/)
+- [Straenbaugeotechnik](https://duisburg.geotechnik.sbs/straenbaugeotechnik/)
+- [Straßenuntergrundbemessung](https://duisburg.geotechnik.sbs/straßenuntergrundbemessung/)
+- [Stutzwandbemessung](https://duisburg.geotechnik.sbs/stutzwandbemessung/)
+
+## Contact
+- Website: https://duisburg.geotechnik.sbs/
+
+## About
+This page provides information about geotechnical engineering services available in Germany.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
