@@ -3,7 +3,7 @@
   "short_name": "Duisburg",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#2A9D8F",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "de",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Professionelle geotechnische Dienstleistungen in Duisburg, Germany. Bodenstudien, Prüfungen und technische Beratung.",
+  "id": "/duisburg-5796"
 }
